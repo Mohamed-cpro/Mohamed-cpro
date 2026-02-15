@@ -52,7 +52,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mohamed-cpro/Mohamed-cpro/output/snake.svg" alt="Snake animation" />
+<p align="left">HH HH HH</p>
 
 ###
 
