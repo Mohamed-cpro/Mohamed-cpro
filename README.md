@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohamed, and I'm a 20y  from Egypt</p>
+
 
 ###
 
@@ -12,13 +12,9 @@
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
 
-<p align="left">Turning Nescafe into bugs since 2023<br> I'm currently learning how to make Data science projects.  <br>Goals: to become great at what i want <br>🎲 Fun fact: I love Chicken Negresco</p>
 
-###
 
 <h2 align="left">I code with</h2>
 
