@@ -48,7 +48,6 @@
 
 ###
 
-<p align="left">HH HH HH</p>
 
 ###
 
